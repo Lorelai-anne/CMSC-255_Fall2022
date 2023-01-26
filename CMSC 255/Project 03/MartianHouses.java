@@ -4,9 +4,8 @@
 * Project Description
 * This program calculates the base cost of the house wanting
 * to be built based on the length of the side of the house
-* Lorelai Davis
+* Lorelai Anne
 * September 23, 2022
-* CMSC 255 Section number 001
 **********************************************************/
 import java.util.Scanner;
 public class MartianHouses{
