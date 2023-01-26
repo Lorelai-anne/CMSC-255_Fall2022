@@ -2,16 +2,16 @@
 ###### All java labs and projects from my CMSC 255 Introduction to Programming class
 
 # TODO
-###### Description : What is needed to create a more organized and personalized gitHub repository
+###### Description : What is needed to create a more organized and personalized gitHub repository.
 - Personalize/learn how to create my own readMe
-- Labs/Projects : touch-up code as I learn new methods and make sure all code works
+- Labs/Projects : fix code on certain labs/projects, implement labs 1-6 and projects 1-3 on IntelliJ IDEA
 
 # Table of Contents:
 ###### Note: Some code is unfinished and does not work properly. This will be removed once those specific files are fixed.
 
 ## 1) Labs:
 ###### Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
-- Lab 1: [
+- Lab 1: [Hello](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2001/Hello.java)
 - Lab 2: 
 - Lab 3: 
 - Lab 4: 
