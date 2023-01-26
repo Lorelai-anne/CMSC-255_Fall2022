@@ -3,6 +3,7 @@
 
 # TODO
 ###### Description : What is needed to create a more organized and personalized gitHub repository.
+###### Note: Tasks will be deleted/added as this repository is updated
 - Personalize/learn how to create a new readMe
 - Labs/Projects : fix code on certain labs/projects , implement labs 1-6 and projects 1-3 on IntelliJ IDEA , adjust existing code as I learn new ways to implement methods
 
