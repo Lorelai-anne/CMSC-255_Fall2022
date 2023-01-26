@@ -1,7 +1,7 @@
 # CMSC-255
 ###### All java labs and projects from my CMSC 255 Introduction to Programming class
 
-# TODO
+# TODO: 
 ###### Description : What is needed to create a more organized and personalized gitHub repository.
 ###### Note: Tasks will be deleted/added as this repository is updated
 - Personalize/learn how to create a new readMe
