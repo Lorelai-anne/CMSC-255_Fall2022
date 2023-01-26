@@ -3,9 +3,8 @@
 ************************************************************
 * Project Description
 * This code is made to display a triangle
-* Lorelai Davis
+* Lorelai Anne
 * August 26, 2022
-* CMSC 255 Section number 001
 **********************************************************/
 public class Triangle{
 	public static void main(String[]args){
