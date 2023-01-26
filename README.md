@@ -11,7 +11,7 @@
 
 ## 1) Labs:
 ###### Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
-###### Note: See individual packages for more information | [1-6](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255) , [7-14](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs)
+###### Note: See individual package for more information | [1-6](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255) , [7-14](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs)
 - Lab 1: [Hello](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2001/Hello.java)
 - Lab 2: [Printing](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2002)
 - Lab 3: [Expressions & Variable Definitions](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2003)
@@ -27,9 +27,9 @@
 - Lab 13: [File Reading & Writing](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Labs/Lab13/Lab13.java)
 - Lab 14: [DaysPerMonth](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Labs/Lab14/DaysPerMonth.java)
 
-## 3) Projects:
+## 2) Projects:
 ###### Projects 1-3 were created on Notepad , Projects 4-7 were created on IntelliJ
-###### Note: See individual packages for more information | [1-3](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs) , [4-7](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Projects)
+###### Note: See individual package for more information | [1-3](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs) , [4-7](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Projects)
 - Project 1: [Name Art](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Project%2001/NameArt.java)
 - Project 2: [Martian Money](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Project%2002/MartianMoney.java)
 - Project 3: [Martian Houses](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Project%2003/MartianHouses.java)
@@ -37,3 +37,10 @@
 - Project 5: [Moon Samples](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Projects/Project5/MoonSamples.java)
 - Project 6: [Housing on Mars](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Projects/Project6)
 - Project 7: [Moon Study](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Projects/Project7/MoonStudy.java)
+
+## 3} Additional Assignments:
+##### Note: [See individual package for more information](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Additional%20Assignments)
+- [Seat Prices](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/BonusQuestionSeats.java)
+- [Sports Scoring](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/SportsScoring.java)
+- [Repeating Strings](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/StringRepeat.java)
+- [Alphabetic Order](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/StudentAlphabetical.java)
