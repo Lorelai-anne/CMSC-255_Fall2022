@@ -4,13 +4,14 @@
 # TODO
 ###### Description : What is needed to create a more organized and personalized gitHub repository
 - Personalize/learn how to create my own readMe
-- Labs/Projects : touch-up code as I learn new methods
+- Labs/Projects : touch-up code as I learn new methods and make sure all code works
 
 # Table of Contents:
+###### Note: Some code is unfinished and does not work properly. This will be removed once those specific files are fixed.
 
 ## 1) Labs:
 ###### Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
-- Lab 1: 
+- Lab 1: [
 - Lab 2: 
 - Lab 3: 
 - Lab 4: 
