@@ -3,18 +3,16 @@
 ************************************************************
 * Project Description
 * This code outputs my name in a unique way
-* Lorelai Davis
+* Lorelai Anne
 * August 30, 2022
-* CMSC 255 Section number 001
 **********************************************************/
 
 class NameArt {
 	public static void main(String[] args){
-	System.out.println("Lorelai Davis");
+	System.out.println("Lorelai Anne");
 	System.out.println("Project 01 - Your Name in Code");
 	System.out.println("This project outputs my name in a unique way on the display screen");
 	System.out.println("August 30, 2022");
-	System.out.println("CMSC 255 Section 001");
 	System.out.println("    ^     |      ^      |     ^     |     ^     |      ^     |      ^     |      ^      |      ");
 	System.out.println("O ------------------------------------------------------------------------------------------------ O");
 	System.out.println("o           _	                                          _			                   o");
