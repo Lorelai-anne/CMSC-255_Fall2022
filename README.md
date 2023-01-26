@@ -7,7 +7,7 @@
 - Labs/Projects : fix code on certain labs/projects , implement labs 1-6 and projects 1-3 on IntelliJ IDEA , adjust existing code as I learn new ways to implement methods
 
 # Table of Contents:
-###### Note: Some code is unfinished and does not work properly. This will be removed once those specific files are fixed.
+###### Note: Some code might not work properly, This will be removed once those files are fixed.
 
 ## 1) Labs:
 ###### Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
