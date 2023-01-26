@@ -4,9 +4,8 @@
 * Project Description
 * This code helps us understand money denominations
 * on mars in relation to Earth's money
-* Lorelai Davis
+* Lorelai Anne
 * September 15, 2022
-* CMSC 255 Section number 001
 **********************************************************/
 import java.util.Scanner;
 public class MartianMoney{
