@@ -16,7 +16,7 @@
 - Lab 1: [Hello](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2001/Hello.java)
 - Lab 2: [Printing](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2002)
 - Lab 3: [Expressions & Variable Definitions](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2003)
-- Lab 4: [Phone Selection](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2004)
+- Lab 4: [Phone Selection](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2004/PhoneSelection.java)
 - Lab 5: [Strings](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2005)
 - Lab 6: [Loops](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2006)
 - Lab 7: [Lab 7](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Labs/Lab7/Lab7.java)
