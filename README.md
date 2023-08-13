@@ -1,11 +1,5 @@
-# CMSC-255
+# CMSC 255
 ###### All java labs and projects from my CMSC 255 Introduction to Programming class
-
-# TODO: 
-###### Description : What is needed to create a more organized and personalized gitHub repository.
-###### Note: Tasks will be deleted/added as this repository is updated
-- Personalize/learn how to create a new readMe
-- Labs/Projects : fix code on certain labs/projects , implement labs 1-6 and projects 1-3 on IntelliJ IDEA , adjust existing code as I learn new ways to implement methods
 
 # Table of Contents:
 ###### Note: Some code might not work properly, This will be removed once those files are fixed.
