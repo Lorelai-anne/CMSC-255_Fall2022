@@ -1,10 +1,10 @@
 # CMSC 255
 ###### All java labs and projects from my CMSC 255 Introduction to Programming class
 
-# Table of Contents:
+## Table of Contents:
 ###### Note: Some code might not work properly, This will be removed once those files are fixed.
 
-## 1) Labs:
+### 1) Labs:
 ###### Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
 ###### Note: See individual package for more information | [1-6](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255) , [7-14](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs)
 - Lab 1: [Hello](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2001/Hello.java)
@@ -22,7 +22,7 @@
 - Lab 13: [File Reading & Writing](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Labs/Lab13/Lab13.java)
 - Lab 14: [DaysPerMonth](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Labs/Lab14/DaysPerMonth.java)
 
-## 2) Projects:
+### 2) Projects:
 ###### Projects 1-3 were created on Notepad , Projects 4-7 were created on IntelliJ
 ###### Note: See individual package for more information | [1-3](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs) , [4-7](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Projects)
 - Project 1: [Name Art](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Project%2001/NameArt.java)
@@ -33,7 +33,7 @@
 - Project 6: [Housing on Mars](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Projects/Project6)
 - Project 7: [Moon Study](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Projects/Project7/MoonStudy.java)
 
-## 3} Additional Assignments:
+### 3} Additional Assignments:
 ##### Note: [See individual package for more information](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Additional%20Assignments)
 - [Seat Prices](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/BonusQuestionSeats.java)
 - [Sports Scoring](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/src/Additional%20Assignments/SportsScoring.java)
