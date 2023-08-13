@@ -5,8 +5,8 @@
 ###### Note: Some code might not work properly, This will be removed once those files are fixed.
 
 ### 1) Labs:
-###### - Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA
-###### - Note: See individual package for more information | [1-6](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255) , [7-14](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs)
+###### **Labs 1-6 were created on Notepad , Labs 7-14 were created and run on IntelliJ IDEA**
+###### Note: See individual package for more information | [1-6](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255) , [7-14](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/src/Labs)
 - Lab 1: [Hello](https://github.com/Lorelai-anne/CMSC-255_Fall2022/blob/main/CMSC%20255/Lab%2001/Hello.java)
 - Lab 2: [Printing](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2002)
 - Lab 3: [Expressions & Variable Definitions](https://github.com/Lorelai-anne/CMSC-255_Fall2022/tree/main/CMSC%20255/Lab%2003)
